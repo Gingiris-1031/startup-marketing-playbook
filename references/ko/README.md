@@ -53,6 +53,6 @@
 - **예산 없는 PR**: HARO 응답, 창업자 스토리 피칭, 데이터 기반 프레스 앵글
 
 ## 관련 Gingiris Skills
-- 전체 버전: https://clawhub.ai/skill/gingiris-launch
-- 모든 스킬: https://clawhub.ai/user/gingiris
+- 전체 버전: https://clawhub.ai/gingiris-1031/skills/gingiris-launch
+- 모든 스킬: https://clawhub.ai/gingiris-1031
 - 팔로우: [@WeiYipei on X](https://x.com/WeiYipei)

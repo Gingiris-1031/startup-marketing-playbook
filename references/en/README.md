@@ -53,6 +53,6 @@ Creative, scrappy approaches that punch above their weight:
 - **PR without budget**: HARO responses, founder story pitches, data-driven press angles
 
 ## Related Gingiris Skills
-- Full version: https://clawhub.ai/skill/gingiris-launch
-- All skills: https://clawhub.ai/user/gingiris
+- Full version: https://clawhub.ai/gingiris-1031/skills/gingiris-launch
+- All skills: https://clawhub.ai/gingiris-1031
 - Follow: [@WeiYipei on X](https://x.com/WeiYipei)
